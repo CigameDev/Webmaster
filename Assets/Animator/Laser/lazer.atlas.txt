@@ -1,0 +1,10 @@
+lazer.png
+size:454,454
+filter:Linear,Linear
+pma:true
+laze_big_left
+bounds:112,317,150,135
+light_big_left
+bounds:264,273,188,179
+tru_laze_left
+bounds:2,346,108,106

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">50423679042</string>
+  <string name="google_storage_bucket" translatable="false">web-shot-hero-in-house.appspot.com</string>
+  <string name="project_id" translatable="false">web-shot-hero-in-house</string>
+  <string name="google_api_key" translatable="false">AIzaSyDFXMfQpK4RfOLyc_9bYgu2xfsJhlDVHcQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDFXMfQpK4RfOLyc_9bYgu2xfsJhlDVHcQ</string>
+  <string name="google_app_id" translatable="false">1:50423679042:android:9172ddebac66fc9a9a05db</string>
+  <string name="default_web_client_id" translatable="false">50423679042-nq22fs0lkil3aksn45jolrlb34819l8m.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6000f94d379ed244a577b111eba9c7c, type: 3}
+  m_Name: SkinConfig
+  m_EditorClassIdentifier: 
+  skins:
+  - materialBody: {fileID: 2100000, guid: 1e251d4169ab0374486c6602190c7b3c, type: 2}
+    materialItem: {fileID: 0}
+    meshBody: {fileID: -7834640667177381828, guid: c206ed546b1158b4280aeb6a71b27887, type: 3}
+    meshItem: {fileID: 0}
+  - materialBody: {fileID: 2100000, guid: 0745be889e996654da045885714caa4d, type: 2}
+    materialItem: {fileID: 0}
+    meshBody: {fileID: -7834640667177381828, guid: c206ed546b1158b4280aeb6a71b27887, type: 3}
+    meshItem: {fileID: 0}
+  - materialBody: {fileID: 2100000, guid: 095aeee354366cb4b994b2bbc4002b43, type: 2}
+    materialItem: {fileID: 0}
+    meshBody: {fileID: 4043496971516112482, guid: c206ed546b1158b4280aeb6a71b27887, type: 3}
+    meshItem: {fileID: 0}
+  - materialBody: {fileID: 2100000, guid: 3f185facce2854d40983f8a0d01f49b7, type: 2}
+    materialItem: {fileID: 2100000, guid: 43d15500210629b428854a84c5a45a86, type: 2}
+    meshBody: {fileID: 8238031349852298207, guid: c206ed546b1158b4280aeb6a71b27887, type: 3}
+    meshItem: {fileID: -2313841320240223829, guid: c206ed546b1158b4280aeb6a71b27887, type: 3}
+  - materialBody: {fileID: 2100000, guid: 8ed638d65e6bbd24fb4fcfc7cad85b03, type: 2}
+    materialItem: {fileID: 2100000, guid: 216af822365c022498ed23b7136603fa, type: 2}
+    meshBody: {fileID: -7616819158868953976, guid: c206ed546b1158b4280aeb6a71b27887, type: 3}
+    meshItem: {fileID: 4931335147560955597, guid: c206ed546b1158b4280aeb6a71b27887, type: 3}
+  - materialBody: {fileID: 2100000, guid: 79a331812998c36429e8636c6f8299f6, type: 2}
+    materialItem: {fileID: 0}
+    meshBody: {fileID: -7834640667177381828, guid: c206ed546b1158b4280aeb6a71b27887, type: 3}
+    meshItem: {fileID: 0}
+  - materialBody: {fileID: 2100000, guid: 106a2e91896edbd4486d236ff0853150, type: 2}
+    materialItem: {fileID: 0}
+    meshBody: {fileID: 3645753717244113026, guid: c206ed546b1158b4280aeb6a71b27887, type: 3}
+    meshItem: {fileID: 0}
+  valueLevelUnlockSkin: 0000000005000000090000000e000000140000001a0000001e000000
+  modeSkins: 00000000000000000100000000000000020000000200000001000000
+  spriteSkin:
+  - {fileID: 21300000, guid: 6b887c9a9bade004d97672344d8c859f, type: 3}
+  - {fileID: 21300000, guid: dd54697c2dd0afb4ea7ad1249080fd81, type: 3}
+  - {fileID: 21300000, guid: 9fa72340c489045448ab07ae12dee962, type: 3}
+  - {fileID: 21300000, guid: 41df5dab6b2438547ab49d8181258e33, type: 3}
+  - {fileID: 21300000, guid: 8114a74793cc39e4f85d52c53a184931, type: 3}
+  - {fileID: 21300000, guid: 11b57695ef1ef3f41b1c20488a6d1119, type: 3}
+  - {fileID: 21300000, guid: 9a168cfc9ef6bb14ebc3602702dbcff4, type: 3}
+  spriteIconSkinWinPopup:
+  - {fileID: 21300000, guid: 7fa5d789a5931dd46a71270d651cfa16, type: 3}
+  - {fileID: 21300000, guid: a83f174099ad8af418fbed4bf7422d5f, type: 3}
+  - {fileID: 21300000, guid: 9b015a4d8a612694ca5916507351feb3, type: 3}
+  - {fileID: 21300000, guid: 02c5c1967d825224f89e21a351c38741, type: 3}
+  - {fileID: 21300000, guid: a80e79522c2d5764abf9a7eb2cf4ed4d, type: 3}
+  - {fileID: 21300000, guid: 1c4960f58fc27dd4da2d1ee43c4ac1db, type: 3}
+  - {fileID: 21300000, guid: feb914959258add4aa1055ca5459d1b3, type: 3}

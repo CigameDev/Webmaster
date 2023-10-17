@@ -1,0 +1,12 @@
+hand_tutorial.png
+size:1028,1028
+filter:Linear,Linear
+pma:true
+arrow
+bounds:2,608,1024,418
+hand
+bounds:2,103,297,291
+offsets:51,0,348,334
+line
+bounds:2,396,948,210
+offsets:13,0,961,210

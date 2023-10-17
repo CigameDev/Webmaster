@@ -1,0 +1,9 @@
+vfx_.png
+size:258,258
+filter:Linear,Linear
+pma:true
+Polygon 1
+bounds:191,163,93,65
+rotate:90
+net
+bounds:2,76,187,180

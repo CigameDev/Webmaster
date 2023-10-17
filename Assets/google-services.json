@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50423679042",
+    "project_id": "web-shot-hero-in-house",
+    "storage_bucket": "web-shot-hero-in-house.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50423679042:android:9172ddebac66fc9a9a05db",
+        "android_client_info": {
+          "package_name": "com.webman.swinghero.herofight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50423679042-nq22fs0lkil3aksn45jolrlb34819l8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFXMfQpK4RfOLyc_9bYgu2xfsJhlDVHcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50423679042-nq22fs0lkil3aksn45jolrlb34819l8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
