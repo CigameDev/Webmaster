@@ -32,7 +32,7 @@ public class CustomLib : MonoBehaviour
         {
             LoadingManager.Instant.DoneConditionSelf(0, () => AdManager.Instant.AdsOpenIsLoaded());
             LoadingManager.Instant.DoneConditionSelf(1, () => AdManager.Instant.InterstitialIsLoaded());
-            LoadingManager.Instant.SetMaxTimeLoading(30).Init(2, this.LoadingCompleteCallback);
+            LoadingManager.Instant.SetMaxTimeLoading(10).Init(2, this.LoadingCompleteCallback);
         }
 
         FireBaseManager.Instant.LogEventWithParameterAsync("loading_start", new Hashtable()
